@@ -1,0 +1,11 @@
+.header4 {
+    background-image: url("images/1942-romanian-german.webp");
+    height: 95vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.new-line {
+    white-space: pre-line;
+}

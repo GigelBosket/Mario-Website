@@ -1,0 +1,60 @@
+.header {
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+}
+
+
+.video-background {
+    position: absolute;
+
+    width: 100%;
+    height: 100%;
+    z-index: -10;
+    overflow: hidden;
+}
+
+.video-background video {
+
+    width: auto;
+    height: auto;
+
+}
+
+.timeline-status-right {
+    position: relative;
+    right: 0;
+
+}
+
+.timeline-status-left {
+    position: relative;
+
+
+}
+
+
+/*
+.timeline-status-right::after {
+    content: "";
+    position: absolute;
+    width: 60px;
+    height: 100%;
+    background-color: blue;
+    top: 0;
+    left: 50%;
+    margin-left: -3px;
+    z-index: -1;
+}*/
+/*
+.timeline-line {
+    position: absolute;
+    width: 4px;
+    height: 100%;
+    background-color: blue;
+    left: 50%;
+
+    transform: translateX(-50%);
+
+    z-index: 10;
+} */

@@ -1,0 +1,10 @@
+.header-intro {
+    background-image: url("images/Introducere_bg_provizoriu.jpg");
+    max-height: 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.new-line {
+    white-space: pre-line;
+}

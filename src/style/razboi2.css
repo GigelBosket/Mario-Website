@@ -1,0 +1,10 @@
+.header2 {
+    background-image: url("images/US-troops-Omaha-beach-RTR3R6QH.jpg");
+    height: 95vh;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.new-line {
+    white-space: pre-line;
+}

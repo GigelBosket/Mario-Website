@@ -1,0 +1,11 @@
+.header3 {
+    background-image: url("images/t34_in_flacari.jpg");
+    height: 95vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.new-line {
+    white-space: pre-line;
+}
