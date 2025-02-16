@@ -1,6 +1,7 @@
 {
   "name": "website-istorie",
-  "private": true,
+  "homepage": "https://GigelBosket.github.io/Mario-Website/",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
